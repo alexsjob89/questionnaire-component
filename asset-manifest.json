@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/questionnaire-component/static/css/main.c5f97f8b.css",
+    "main.js": "/questionnaire-component/static/js/main.e132b150.js",
+    "index.html": "/questionnaire-component/index.html",
+    "main.c5f97f8b.css.map": "/questionnaire-component/static/css/main.c5f97f8b.css.map",
+    "main.e132b150.js.map": "/questionnaire-component/static/js/main.e132b150.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f97f8b.css",
+    "static/js/main.e132b150.js"
+  ]
+}
